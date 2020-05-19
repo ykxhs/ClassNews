@@ -1,10 +1,4 @@
 # ClassNews
-班级新闻网
+鐝骇鏂伴椈缃�
 # autor
 JKZ CYY CHD
-
-
-
-
-
-tests
